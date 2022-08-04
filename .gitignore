@@ -13,6 +13,9 @@ coverage
 out/
 build
 
+# ts
+dist
+
 # misc
 .DS_Store
 *.pem
